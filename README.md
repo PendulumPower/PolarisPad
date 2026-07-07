@@ -9,3 +9,10 @@ PCB:
 <img width="1416" height="1193" alt="image" src="https://github.com/user-attachments/assets/7b0e6ef8-3db8-4723-b8bb-e7f62a460b8f" />
 Schematic:
 <img width="1612" height="739" alt="image" src="https://github.com/user-attachments/assets/f6f98980-a884-47bd-b215-f0eb066ebd90" />
+BOM: <br>
+-8 MX-Style switches <br>
+-1 unsoldered Seeed XIAO RP2040 <br>
+-8 through-hole 1N4148 Diodes <br>
+-4 SK6812 MINI-E LEDs <br>
+-1 EC11 Rotary encoders <br>
+-1 0.91 inch OLED display

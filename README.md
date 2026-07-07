@@ -1,6 +1,6 @@
 # PolarisPad
 A Macropad designed for space combat in games such as Star Citizen.
-The page description will expand as the project is completed:
+The page description will expand as the project is completed: <br>
 Case:
 <img width="1220" height="843" alt="image" src="https://github.com/user-attachments/assets/2b8631a9-cc77-4800-9d96-5aeab1f8a43e" />
 Full Design:

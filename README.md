@@ -1,6 +1,5 @@
 # PolarisPad
-A Macropad designed for space combat in games such as Star Citizen.
-The page description will expand as the project is completed: <br>
+A Macropad designed for space combat in games such as Star Citizen.<br>
 Case:
 <img width="1220" height="843" alt="image" src="https://github.com/user-attachments/assets/2b8631a9-cc77-4800-9d96-5aeab1f8a43e" />
 Full Design:
@@ -9,6 +8,12 @@ PCB:
 <img width="1416" height="1193" alt="image" src="https://github.com/user-attachments/assets/7b0e6ef8-3db8-4723-b8bb-e7f62a460b8f" />
 Schematic:
 <img width="1612" height="739" alt="image" src="https://github.com/user-attachments/assets/f6f98980-a884-47bd-b215-f0eb066ebd90" />
+How to program:<br>
+1. Connect the device to a computer using a usb-c data cable while pressing the boot button.<br>
+2. Download the most recent .uf2 file from the releases.<br>
+3. Drag and drop the .uf2 file into the folder for the device. It should close and reboot<br>
+4. Done!<br>
+
 BOM: <br>
 -8 MX-Style switches <br>
 -1 unsoldered Seeed XIAO RP2040 <br>
